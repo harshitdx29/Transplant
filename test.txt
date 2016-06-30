@@ -1,0 +1,12 @@
+Now for the design of classes and methods, one should properly identify the entities in the problem. Define the entities in their appropriate classes. 
+Create abstract classes and interfaces wherever the entity is an abstraction and can be reusable by overriding. Classes used as data structures should
+be efficient i.e. possibly lowest runtime complexity for methods. Usage of polymorphic methods to handle flexible requests. Encapsulation of algorithms 
+in separate methods and classes. Define a method such that it does only what it is supposed to do. Handling thread safety. Where static classes and 
+methods were used and why ? Final and Immutability for required variables. What design patterns used if any ? (e.g. Factory pattern) and so on..
+
+http://www.hiringlibrary.com/object-oriented-design-interview-for-parking-lot-or-elevator/
+
+http://www.hiredintech.com/system-design/
+
+https://www.quora.com/How-can-I-learn-about-Design-questions-asked-in-programming-interviews
+Arile Krakowski and Jake Cook Answer..
